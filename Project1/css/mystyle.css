@@ -11,6 +11,7 @@
     display: flex;
     top: 0px;
     align-items: center;
+    z-inde:1;
 }
 
 #navbar::before{
